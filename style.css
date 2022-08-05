@@ -61,12 +61,12 @@ h1, h2, h3 {
 
 /* unvisited link */
 a:link {
-	color: #2b5b51;
+	color: #0064c8;
 }
 
 /* visited link */
 a:visited {
-	color: #2b5b51;
+	color: #00dddd;
 }
 
 /* mouse over link */
