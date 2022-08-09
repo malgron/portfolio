@@ -48,7 +48,7 @@ footer h2 {
 	text-align: center;
 }
 	
-/* ---Type--- */
+/* ---Heading Types--- */
 h1, h2, h3 {
 	font-family: Calibri, Arial, serif;
 	color: black;
@@ -57,7 +57,7 @@ h1, h2, h3 {
 }
 
 
-/* ---Pseudo-elements--- */
+/* ---Pseudo-class elements--- */
 
 /* unvisited link */
 a:link {
@@ -79,7 +79,7 @@ a:active {
 	color: #403933;
 } 
 
-/* ---Standard Elements--- */
+/* ---profile image display--- */
 img { 
 	display: block;
 	margin-left: auto;
